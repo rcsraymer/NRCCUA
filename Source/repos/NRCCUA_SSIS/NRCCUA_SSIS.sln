@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "NRCCUA_SSIS", "NRCCUA_SSIS\NRCCUA_SSIS.dtproj", "{31FAB6FD-0A31-43A9-BAE4-2AFBAAD16E44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FAB6FD-0A31-43A9-BAE4-2AFBAAD16E44}.Development|Default.ActiveCfg = Development
+		{31FAB6FD-0A31-43A9-BAE4-2AFBAAD16E44}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91DBBE06-1FE4-4055-85A2-5B2753C49784}
+	EndGlobalSection
+EndGlobal
